@@ -30,3 +30,7 @@ These requirements guided the concept and development of my game:
 
 # Code
 If you're trying to see where all the magic happens (game logic and structure), take a peek at the main.c file.
+
+# Run
+To play the game, head over to the Project.gba file.
+
