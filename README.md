@@ -3,6 +3,8 @@ GameBoy Advance game that I developed in C for a Georgia Tech course called Medi
 
 To run it, use a GameBoy emulator such as Boycott Advance.
 
+Check out the project page on my portfolio: https://www.marimatias.com/gameboy
+
 # Instructions
 
 The goal of my game is to help your little character escape the underground dungeon!
